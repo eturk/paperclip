@@ -40,7 +40,7 @@ Gem::Specification.new do |s|
   # Ruby version < 1.9.3 can't install capybara > 2.0.3.
   s.add_development_dependency('capybara', '= 2.0.3')
   s.add_development_dependency('bundler')
-  s.add_development_dependency('fog', '~> 1.19.0')
+  s.add_development_dependency('fog', '~> 1.23.0')
   s.add_development_dependency('launchy')
   s.add_development_dependency('rake')
   s.add_development_dependency('fakeweb')
